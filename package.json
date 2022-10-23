@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@harvey0379/maojian": "^0.0.2",
     "@types/qrcode": "^1.5.0",
     "qrcode": "^1.5.1",
     "react": "^18.2.0",
