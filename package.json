@@ -12,11 +12,13 @@
   "dependencies": {
     "@harvey0379/maojian": "^0.0.2",
     "@types/qrcode": "^1.5.0",
+    "antd": "^4.23.6",
     "qrcode": "^1.5.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.3.0",
-    "styled-components": "^5.3.5"
+    "styled-components": "^5.3.5",
+    "wenyuan": "^0.0.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
